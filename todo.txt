@@ -1,0 +1,8 @@
+todo priority:
+
+convert all iamge types to png
+image compression / decompress
+sending compression via api (connecting on localhost)
+
+file system storage (m-ary tree?)
+basic frontend
